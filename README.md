@@ -1,7 +1,7 @@
-``项目技术栈``
+##   项目技术栈
 vue3、vite、element_plus、vant、nest.js、tailwindcss、sass
 
-``项目效果预览``
+##  项目效果预览
 
 
 ![image](https://user-images.githubusercontent.com/103589803/175809056-76dc22e5-9b8e-4da9-af5e-7a892ec24230.png)
@@ -24,4 +24,19 @@ vue3、vite、element_plus、vant、nest.js、tailwindcss、sass
 
 ![image](https://user-images.githubusercontent.com/103589803/175809105-e343a45c-3649-48dd-b50e-9fae1239b079.png)
 
+![image](https://user-images.githubusercontent.com/103589803/175809252-c8ab900c-9c08-4006-b3ae-c8d6c264ff9b.png)
+
+
+
+##  项目功能
+- 选票
+- 登录
+- 查看排片
+- 查看影片详情
+- 查看排片情况
+
+##  下载运行
+1.下载到本地
+2.在终端输入命令行 ``npm install`` 下载项目依赖
+3.输入``npm run dev``启动程序
 
