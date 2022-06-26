@@ -37,6 +37,8 @@ vue3、vite、element_plus、vant、nest.js、tailwindcss、sass
 
 ##  下载运行
 1.下载到本地
+</br>
 2.在终端输入命令行 ``npm install`` 下载项目依赖
+</br>
 3.输入``npm run dev``启动程序
 
